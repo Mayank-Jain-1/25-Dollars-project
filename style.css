@@ -84,6 +84,7 @@ body{
 
 #profile-heading{
   font-size: 18px;
+  display: flex;
 }
 
 #delivery-locations{
@@ -134,6 +135,7 @@ body{
   display: flex;
   justify-content: space-between;
   margin-bottom: 15px;
+  border-radius: 3px;
 }
 
 .payment-method-heading{
@@ -190,3 +192,58 @@ body{
 }
 
 
+#navigation{
+  box-shadow: 0px 5px 30px -2px #88d2b0;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  width: 100vw;
+  height: 80px;
+  padding: 30px 0px 20px 0px;
+}
+
+.navigation-button{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border: none;
+
+}
+
+.navigation-button-image{
+  width:25px;
+  margin-bottom: 5px;
+}
+
+#profile-button-image{
+  width: 30px;
+  border-radius: 50%;
+}
+
+.edit-button{
+  color: rgb(62, 60, 60);
+  font-family: 'Roboto', 'sans-serif';
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.edit-button img{
+  width: 15px;
+}
+
+#edit-profile-name{
+  margin-left: 30px;
+}
+
+#shop-description-heading{
+  display: flex;
+  justify-content: space-between;
+}

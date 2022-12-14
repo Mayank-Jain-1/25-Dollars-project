@@ -4,9 +4,10 @@ You can visit the site here -> [25 Dollar Project](https://mayank-jain-1.github.
 
 - This is a simple static webpage made from html and css.
 - Made for an assignment submission
-- Click on the bottom navigation Orders button to get redirected to the other page
+- Click on the bottom navigation Products button to get redirected to the other page
 
-**Note** -  *The design is only for mobile viewwidths.* 
+**Note** - _The design is only for mobile viewwidths._
 
 ## What i learnt
+
 - I learnt making the animation for the radio button slider (sliding green circle)

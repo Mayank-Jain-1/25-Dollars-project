@@ -4,6 +4,7 @@ You can visit the site here -> [25 Dollar Project](https://mayank-jain-1.github.
 
 - This is a simple static webpage made from html and css.
 - Made for an assignment submission
+- Click on the bottom navigation Orders button to get redirected to the other page
 
 **Note** -  *The design is only for mobile viewwidths.* 
 
